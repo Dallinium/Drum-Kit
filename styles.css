@@ -1,12 +1,13 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #ffb3b3;
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
-  font-family: "Arvo", cursive;
+  color: #bbeaff;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
   text-shadow: 3px 0 #DA0463;
 
 }
@@ -64,12 +65,13 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #bbeaff;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #a0daa9;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
